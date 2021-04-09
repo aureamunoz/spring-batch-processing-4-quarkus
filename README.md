@@ -1,4 +1,4 @@
-##Spring Batch Simple project
+## Spring Batch Simple project
 
 This project uses Spring Batch. This project is being used to write the [Java EE 7 Batch Processing example](https://github.com/eugenp/tutorials/tree/master/jee-7/src/main/java/com/baeldung/batch/understanding) from Baeldung using Spring Boot and Spring Batch. 
 
